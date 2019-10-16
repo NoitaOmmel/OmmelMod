@@ -1,0 +1,3 @@
+[submodule "OmmelStitcher"]
+	path = OmmelStitcher
+	url = https://github.com/NoitaOmmel/ommel
