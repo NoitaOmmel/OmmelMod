@@ -21,6 +21,7 @@ mkdir .tmp
 mkdir .tmp/ommel
 cp mod.xml .tmp/ommel/ 
 cp init.lua .tmp/ommel/
+cp LICENSE .tmp/ommel
 sed -i 's/%VERSION%/'"$version"'/' .tmp/ommel/mod.xml
 sed -i 's/%VERSION%/'"$version"'/' .tmp/ommel/init.lua
 mkdir .tmp/ommel/ommel
