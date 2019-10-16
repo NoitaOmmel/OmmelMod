@@ -1,4 +1,4 @@
-print("OMMEL/Mod %VERSION% ACTIVE!")
+print("OMMEL/Mod ACTIVE!")
 local ffi = require("ffi")
 local is_unix = os.getenv("OMMEL_UNIX") ~= nil
 
