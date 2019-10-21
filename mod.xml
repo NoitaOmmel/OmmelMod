@@ -1,4 +1,5 @@
 <Mod
 	name="OMMEL/Mod"
 	description="A version of Ommel that does not require any extra setup outside of installing it as a mod!"
+	request_no_api_restrictions="1"
 />
